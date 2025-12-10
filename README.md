@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Arfad 👋
+
+Welcome to my little corner of GitHub!  
+I mostly work on web stuff, experiment with ideas, and build things whenever inspiration strikes.
+
+I use Go and Typescript (hate to say it) quite a lot and I'm an Arch user (btw). Lately I've been actively developing an app called **RESTUI**, you can check it out here: [RESTUI APP](https://github.com/arfadmuzali/restui) 
+
+Feel free to look around, fork anything, or drop a message if you want to chat or collaborate.
+
+Thanks for stopping by! 🚀
+
 
 <!--
 **arfadmuzali/arfadmuzali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
